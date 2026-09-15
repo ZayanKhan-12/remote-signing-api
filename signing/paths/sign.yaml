@@ -1003,7 +1003,6 @@ post:
                   data: "0x68747470733a2f2f6275696c6465722e6578616d706c652e6f7267"
                   slot: "32"
 
-
           GENERIC (DOMAIN_BEACON_ATTESTER):
             summary: 'Generic request for an attestation'
             description: |
